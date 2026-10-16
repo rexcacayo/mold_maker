@@ -7,7 +7,7 @@ Complemento de Blender (4.2 a 5.x) para **crear moldes imprimibles de cualquier 
 - **Silicona**: caja + base con ranura y soporte (que hace de bebedero). Calcula la silicona necesaria.
 - Calcula los ml de material y exporta las piezas a STL en mm.
 
-Instalar: Editar → Preferencias → Complementos → Instalar desde disco → `mold_maker-1.0.0.zip`.
+Instalar: Editar → Preferencias → Complementos → Instalar desde disco → `mold_maker-1.0.1.zip`.
 Guía completa en `mold_maker/LEEME.md`.
 
 ## Licencia
